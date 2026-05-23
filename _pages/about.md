@@ -34,16 +34,23 @@ My research interests include AI for neuroscience, EEG decoding, and deep learni
 
 [DSAINet: An Efficient Dual-Scale Attentive Interaction Network for General EEG Decoding](https://arxiv.org/abs/2604.18095)
 
-**Zhiyuan Ma**, Zeyuan Li, Zihao Qiu, Jinhao Li, Lingqin Meng, Xinche Zhang, Yixuan Liu, Xinke Shen, Sen Song
+**Zhiyuan Ma<sup>#</sup>**, Zeyuan Li<sup>#</sup>, Zihao Qiu<sup>#</sup>, Jinhao Li, Lingqin Meng, Xinche Zhang, Yixuan Liu, Xinke Shen, Sen Song
 
-[**Github**](https://github.com/zy0929/DSAINet)
+[![Paper](https://img.shields.io/badge/arXiv-2604.18095-red)](https://arxiv.org/abs/2604.18095)
 [![GitHub Repo stars](https://img.shields.io/github/stars/zy0929/DSAINet)](https://github.com/zy0929/DSAINet)
-[![GitHub Repo stars](https://img.shields.io/github/stars/wjq-learning/CBraMod)](https://github.com/wjq-learning/CBraMod)
+
+- We propose **DSAINet**, an efficient dual-scale attentive interaction network for general EEG decoding.
+- Comprehensive experiments across **five EEG decoding tasks** and **ten public datasets** show that DSAINet consistently outperforms **13 representative baselines** under subject-independent evaluation, while maintaining the **same network architecture and architecture-related hyperparameters** across datasets.
 
 </div>
 </div>
 
+- `arXiv 2026` [LI-DSN: A Layer-wise Interactive Dual-Stream Network for EEG Decoding](https://arxiv.org/abs/2604.01889), Chenghao Yue<sup>#</sup>, **Zhiyuan Ma<sup>#</sup>**, Zhongye Xia, Xinche Zhang, Yisi Zhang, Xinke Shen, Sen Song
+- `arXiv 2026` [Signal-Adaptive Trust Regions for Gradient-Free Optimization of Recurrent Spiking Neural Networks](https://arxiv.org/abs/2601.21572), Jinhao Li<sup>#</sup>, Yuhao Sun<sup>#</sup>, **Zhiyuan Ma**, Hao He, Xinche Zhang, Xing Chen, Jin Li, Sen Song
+- `CogSci 2026` [Training-Driven Representational Geometry Modularization Predicts Brain Alignment in Language Models](https://arxiv.org/abs/2602.07539), Yixuan Liu<sup>#</sup>, **Zhiyuan Ma<sup>#</sup>**, Likai Tang, Runmin Gan, Xinche Zhang, Jinhao Li, Chao Xie, Sen Song
+- `Frontiers in Neural Circuits 2025` [Reward-optimizing learning using stochastic release plasticity](https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2025.1618506/full), Yuhao Sun<sup>#</sup>, Wantong Liao<sup>#</sup>, Jinhao Li<sup>#</sup>, Xinche Zhang<sup>#</sup>, Guan Wang, **Zhiyuan Ma**, Sen Song
 
+<sup>**#**</sup> denotes equal contribution.
 
 # 🏆 Honors and Awards
 - *2025.5*, **Outstanding Undergraduate Thesis**, Zhejiang University. 
@@ -53,8 +60,8 @@ My research interests include AI for neuroscience, EEG decoding, and deep learni
 - *2021.08 - 2025.06*, Undergraduate, Computer Science and Technology, Zhejiang University, Hangzhou, China.
 
 # 👨‍🏫 Teaching
-- *2026 Spring*, **Teaching Assistant**, Scientific and Technological Innovation and Challenges 2C, Tsinghua University.
-- *2025 Fall*, **Teaching Assistant**, Scientific and Technological Innovation and Challenges 2C, Tsinghua University.
+- *2026 Spring*, **Teaching Assistant**, Technology Innovation and Challenge 2C, Tsinghua University.
+- *2025 Fall*, **Teaching Assistant**, Technology Innovation and Challenge 2C, Tsinghua University.
 - *2024 Fall*, **Teaching Assistant**, Computer Organization, Zhejiang University.
 - *2024 Spring*, **Teaching Assistant**, Computer Organization, Zhejiang University.
 
