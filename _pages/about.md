@@ -47,12 +47,17 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08 - now*, PhD candidate, Biomedical Engineering, Tsinghua University, Beijing, China. 
+- *2021.08 - 2025.06*, Undergraduate, Computer Science and Technology, Zhejiang University, Hangzhou, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 👨‍🏫 Teaching
+- *2026 Spring*, **Teaching Assistant**, Scientific and Technological Innovation and Challenges 2C, Tsinghua University.
+- *2025 Fall*, **Teaching Assistant**, Scientific and Technological Innovation and Challenges 2C, Tsinghua University.
+- *2024 Fall*, **Teaching Assistant**, Computer Organization, Zhejiang University.
+- *2024 Spring*, **Teaching Assistant**, Computer Organization, Zhejiang University.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🌏 Activities
+## Reviewer
+- IEEE Journal of Biomedical and Health Informatics
+- IEEE Transactions on Neural Systems and Rehabilitation Engineering
+- CogSci
