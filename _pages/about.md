@@ -40,7 +40,7 @@ My research interests include AI for neuroscience, EEG decoding, and deep learni
 [![GitHub Repo stars](https://img.shields.io/github/stars/zy0929/DSAINet)](https://github.com/zy0929/DSAINet)
 
 - We propose **DSAINet**, an efficient dual-scale attentive interaction network for general EEG decoding.
-- Comprehensive experiments across **five EEG decoding tasks** and **ten public datasets** show that DSAINet consistently outperforms **13 representative baselines** under subject-independent evaluation, while maintaining the **same network architecture and architecture-related hyperparameters** across datasets.
+- Comprehensive experiments across **five EEG decoding tasks** and **ten public datasets** show that DSAINet consistently outperforms **13 representative baselines** under subject-independent evaluation, while maintaining the **same architecture and architecture-related hyperparameters** across datasets.
 
 </div>
 </div>
