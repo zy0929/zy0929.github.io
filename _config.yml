@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiyuan Ma"
-description              : "Ph.D. student at Tsinghua University. My research interests include AI, neuroscience, neural signal decoding, and brain-computer interfaces."
+description              : "School of Biomedical Engineering, Tsinghua University"
 repository               : "zy0929/zy0929.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhiyuan Ma"
   avatar           : "images/profile.jpg"
-  bio              : "Tsinghua University"
+  bio              : "马致远"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
