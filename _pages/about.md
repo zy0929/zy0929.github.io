@@ -34,7 +34,7 @@ My research interests include AI for neuroscience, EEG decoding, and deep learni
 
 [DSAINet: An Efficient Dual-Scale Attentive Interaction Network for General EEG Decoding](https://arxiv.org/abs/2604.18095)
 
-**Zhiyuan Ma<sup>#</sup>**, Zeyuan Li<sup>#</sup>, Zihao Qiu<sup>#</sup>, Jinhao Li, Lingqin Meng, Xinche Zhang, Yixuan Liu, Xinke Shen, Sen Song
+**Zhiyuan Ma<sup>#</sup>**, Zeyuan Li<sup>#</sup>, Zihao Qiu<sup>#</sup>, Jinhao Li, Lingqin Meng, Xinche Zhang, Yixuan Liu, Xinke Shen<sup>†</sup>, Sen Song<sup>†</sup>
 
 [![Paper](https://img.shields.io/badge/arXiv-2604.18095-red)](https://arxiv.org/abs/2604.18095)
 [![GitHub Repo stars](https://img.shields.io/github/stars/zy0929/DSAINet)](https://github.com/zy0929/DSAINet)
@@ -45,12 +45,12 @@ My research interests include AI for neuroscience, EEG decoding, and deep learni
 </div>
 </div>
 
-- `arXiv 2026` [LI-DSN: A Layer-wise Interactive Dual-Stream Network for EEG Decoding](https://arxiv.org/abs/2604.01889), Chenghao Yue<sup>#</sup>, **Zhiyuan Ma<sup>#</sup>**, Zhongye Xia, Xinche Zhang, Yisi Zhang, Xinke Shen, Sen Song
-- `arXiv 2026` [Signal-Adaptive Trust Regions for Gradient-Free Optimization of Recurrent Spiking Neural Networks](https://arxiv.org/abs/2601.21572), Jinhao Li<sup>#</sup>, Yuhao Sun<sup>#</sup>, **Zhiyuan Ma**, Hao He, Xinche Zhang, Xing Chen, Jin Li, Sen Song
-- `CogSci 2026` [Training-Driven Representational Geometry Modularization Predicts Brain Alignment in Language Models](https://arxiv.org/abs/2602.07539), Yixuan Liu<sup>#</sup>, **Zhiyuan Ma<sup>#</sup>**, Likai Tang, Runmin Gan, Xinche Zhang, Jinhao Li, Chao Xie, Sen Song
-- `Frontiers in Neural Circuits 2025` [Reward-optimizing learning using stochastic release plasticity](https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2025.1618506/full), Yuhao Sun<sup>#</sup>, Wantong Liao<sup>#</sup>, Jinhao Li<sup>#</sup>, Xinche Zhang<sup>#</sup>, Guan Wang, **Zhiyuan Ma**, Sen Song
+- `arXiv 2026` [LI-DSN: A Layer-wise Interactive Dual-Stream Network for EEG Decoding](https://arxiv.org/abs/2604.01889), Chenghao Yue<sup>#</sup>, **Zhiyuan Ma<sup>#</sup>**, Zhongye Xia, Xinche Zhang, Yisi Zhang<sup>†</sup>, Xinke Shen<sup>†</sup>, Sen Song<sup>†</sup>
+- `arXiv 2026` [Signal-Adaptive Trust Regions for Gradient-Free Optimization of Recurrent Spiking Neural Networks](https://arxiv.org/abs/2601.21572), Jinhao Li<sup>#</sup>, Yuhao Sun<sup>#</sup>, **Zhiyuan Ma**, Hao He, Xinche Zhang, Xing Chen, Jin Li<sup>†</sup>, Sen Song<sup>†</sup>
+- `CogSci 2026` [Training-Driven Representational Geometry Modularization Predicts Brain Alignment in Language Models](https://arxiv.org/abs/2602.07539), Yixuan Liu<sup>#</sup>, **Zhiyuan Ma<sup>#</sup>**, Likai Tang, Runmin Gan, Xinche Zhang, Jinhao Li, Chao Xie<sup>†</sup>, Sen Song<sup>†</sup>
+- `Frontiers in Neural Circuits 2025` [Reward-optimizing learning using stochastic release plasticity](https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2025.1618506/full), Yuhao Sun<sup>#</sup>, Wantong Liao<sup>#</sup>, Jinhao Li<sup>#</sup>, Xinche Zhang<sup>#</sup>, Guan Wang, **Zhiyuan Ma**, Sen Song<sup>†</sup>
 
-<sup>**#**</sup> denotes equal contribution.
+<sup>**†**</sup> denotes corresponding author and <sup>**#**</sup> denotes equal contribution.
 
 # 🏆 Honors and Awards
 - *2025.5*, **Outstanding Undergraduate Thesis**, Zhejiang University. 
