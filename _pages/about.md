@@ -38,6 +38,8 @@ My research interests include AI for neuroscience, EEG decoding, and deep learni
 
 [**Github**](https://github.com/zy0929/DSAINet)
 
+[![GitHub Repo stars](https://img.shields.io/github/stars/wjq-learning/CBraMod)](https://github.com/wjq-learning/CBraMod)
+
 </div>
 </div>
 
