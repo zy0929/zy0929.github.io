@@ -23,8 +23,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉 Our paper "Training-Driven Representational Geometry Modularization Predicts Brain Alignment in Language Models" is accepted by **CogSCI 2026**. 
-- *2025.07*: &nbsp;🎉 Our paper "Reward-optimizing learning using stochastic release plasticity" is accepted by **Frontiers in Neural Circuits**. 
+- *2026.04*: &nbsp;🎉 Our paper "Training-Driven Representational Geometry Modularization Predicts Brain Alignment in Language Models" is accepted by **CogSCI 2026**! 
+- *2025.07*: &nbsp;🎉 Our paper "Reward-optimizing learning using stochastic release plasticity" is accepted by **Frontiers in Neural Circuits**!
 
 # 📝 Publications 
 
