@@ -52,7 +52,7 @@ My research interests include AI for neuroscience, EEG decoding, and deep learni
 
 <sup>**†**</sup> denotes corresponding author and <sup>**#**</sup> denotes equal contribution.
 
-# 🏆 Honors and Awards
+# 🏆 Awards
 - *2025.5*, **Outstanding Undergraduate Thesis**, Zhejiang University. 
 
 # 📖 Educations
