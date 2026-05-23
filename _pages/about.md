@@ -18,7 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a Ph.D. candidate in the School of Biomedical Engineering at Tsinghua University, under the supervision of [Prof. Sen Song](https://scholar.google.com/citations?user=cYgtRP4AAAAJ&hl=zh-CN).
+
 I received my bachelor's degree in Computer Science and Technology from the College of Computer Science and Technology, Zhejiang University, under the supervision of [Prof. Qian Zheng](https://q-zh.github.io/) and [Prof. Zhengxing Huang](https://scholar.google.com/citations?user=uDhL004AAAAJ&hl=en).
+
+My research interests include AI for neuroscience, EEG decoding, and deep learning.
 
 # 🔥 News
 - *2026.04*: &nbsp;🎉 Our paper "Training-Driven Representational Geometry Modularization Predicts Brain Alignment in Language Models" is accepted by **CogSCI 2026**! 
