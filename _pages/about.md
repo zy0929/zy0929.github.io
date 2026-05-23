@@ -37,7 +37,7 @@ My research interests include AI for neuroscience, EEG decoding, and deep learni
 **Zhiyuan Ma**, Zeyuan Li, Zihao Qiu, Jinhao Li, Lingqin Meng, Xinche Zhang, Yixuan Liu, Xinke Shen, Sen Song
 
 [**Github**](https://github.com/zy0929/DSAINet)
-
+[![GitHub Repo stars](https://img.shields.io/github/stars/zy0929/DSAINet)](https://github.com/zy0929/DSAINet)
 [![GitHub Repo stars](https://img.shields.io/github/stars/wjq-learning/CBraMod)](https://github.com/wjq-learning/CBraMod)
 
 </div>
