@@ -46,7 +46,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025.5*, **Outstanding Undergraduate Thesis**, Zhejiang University. 
 
 # 📖 Educations
-- *2025.08 - now*, PhD candidate, Biomedical Engineering, Tsinghua University, Beijing, China. 
+- *2025.08 - now*, Ph.D. Candidate, Biomedical Engineering, Tsinghua University, Beijing, China. 
 - *2021.08 - 2025.06*, Undergraduate, Computer Science and Technology, Zhejiang University, Hangzhou, China.
 
 # 👨‍🏫 Teaching
