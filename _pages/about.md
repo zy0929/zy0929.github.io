@@ -24,7 +24,7 @@ I received my bachelor's degree in Computer Science and Technology from the Coll
 My research interests include AI for neuroscience, EEG decoding, and deep learning.
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉 Our paper "Training-Driven Representational Geometry Modularization Predicts Brain Alignment in Language Models" is accepted by **CogSCI 2026**! 
+- *2026.04*: &nbsp;🎉 Our paper "Training-Driven Representational Geometry Modularization Predicts Brain Alignment in Language Models" is accepted by **CogSCI 2026 (Oral)**! 
 - *2025.07*: &nbsp;🎉 Our paper "Reward-optimizing learning using stochastic release plasticity" is accepted by **Frontiers in Neural Circuits**!
 
 # 📝 Publications 
