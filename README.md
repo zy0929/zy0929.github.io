@@ -5,11 +5,10 @@ AcadHomepage
 
 <div align="center">
 
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
-</div>
+[![GitHub stars](https://img.shields.io/github/stars/zy0929/zy0929.github.io?style=social&cacheSeconds=3600)](https://github.com/zy0929/zy0929.github.io/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/zy0929/zy0929.github.io?style=social&cacheSeconds=3600)](https://github.com/zy0929/zy0929.github.io/forks)
+[![GitHub issues](https://img.shields.io/github/issues/zy0929/zy0929.github.io?cacheSeconds=3600)](https://github.com/zy0929/zy0929.github.io/issues)
+[![License](https://img.shields.io/github/license/zy0929/zy0929.github.io?style=flat&cacheSeconds=3600)](https://github.com/zy0929/zy0929.github.io/blob/main/LICENSE)
 
 <p align="center">A Modern and Responsive Academic Personal Homepage</p>
 
