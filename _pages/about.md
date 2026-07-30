@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. candidate in the School of Biomedical Engineering at Tsinghua University, under the supervision of [Prof. Sen Song](https://scholar.google.com/citations?user=cYgtRP4AAAAJ&hl=zh-CN).
+I am currently a Ph.D. student in the School of Biomedical Engineering at Tsinghua University, under the supervision of [Prof. Sen Song](https://scholar.google.com/citations?user=cYgtRP4AAAAJ&hl=zh-CN).
 
 I received my bachelor's degree in Computer Science and Technology from the College of Computer Science and Technology, Zhejiang University, under the supervision of [Prof. Qian Zheng](https://q-zh.github.io/) and [Prof. Zhengxing Huang](https://scholar.google.com/citations?user=uDhL004AAAAJ&hl=en).
 
@@ -56,7 +56,7 @@ My research interests include AI for neuroscience, EEG decoding, and deep learni
 - *2025.5*, **Outstanding Undergraduate Thesis**, Zhejiang University. 
 
 # 📖 Educations
-- *2025.08 - now*, Ph.D. Candidate, Biomedical Engineering, Tsinghua University, Beijing, China. 
+- *2025.08 - now*, Ph.D. Student, Biomedical Engineering, Tsinghua University, Beijing, China. 
 - *2021.08 - 2025.06*, Undergraduate, Computer Science and Technology, Zhejiang University, Hangzhou, China.
 
 # 👨‍🏫 Teaching
