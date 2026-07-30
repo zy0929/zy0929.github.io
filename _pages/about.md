@@ -60,6 +60,7 @@ My research interests include AI for neuroscience, EEG decoding, and deep learni
 - *2021.08 - 2025.06*, Undergraduate, Computer Science and Technology, Zhejiang University, Hangzhou, China.
 
 # 👨‍🏫 Teaching
+- *2026 Fall*, **Teaching Assistant**, Technology Innovation and Challenge 2C, Tsinghua University.
 - *2026 Spring*, **Teaching Assistant**, Technology Innovation and Challenge 2C, Tsinghua University.
 - *2025 Fall*, **Teaching Assistant**, Technology Innovation and Challenge 2C, Tsinghua University.
 - *2024 Fall*, **Teaching Assistant**, Computer Organization, Zhejiang University.
