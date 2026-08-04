@@ -42,6 +42,9 @@ My research interests include AI for neuroscience, EEG decoding, and deep learni
 - We propose **BridgeMIL**, which decouples instance representation learning from subject-level supervision.
 - Across **three datasets** and **five backbones**, BridgeMIL ranks first in **14 of 15 settings** and improves mean accuracy by **4.28 percentage points**.
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/DSAINet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
