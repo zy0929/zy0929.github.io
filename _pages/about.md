@@ -29,6 +29,19 @@ My research interests include AI for neuroscience, EEG decoding, and deep learni
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/BridgeMIL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Rethinking EEG-Based Disease Diagnosis: Decoupling Instance Representation Learning from Subject-Level Supervision](https://arxiv.org/abs/2607.27274)
+
+**Zhiyuan Ma<sup>#</sup>**, Zeyuan Li<sup>#</sup>, Zhiyi Lu<sup>#</sup>, Jiacheng Hao, Youlang Du, Zhen Jiang, Xinche Zhang, Yuhao Sun, Xinke Shen<sup>†</sup>, Sen Song<sup>†</sup>
+
+[![Paper](https://img.shields.io/badge/arXiv-2607.27274-red)](https://arxiv.org/abs/2607.27274)
+
+- We identify a **two-sided supervision problem** in subject-level EEG disease diagnosis.
+- We propose **BridgeMIL**, which decouples instance representation learning from subject-level supervision.
+- Across **three datasets** and **five backbones**, BridgeMIL ranks first in **14 of 15 settings** and improves mean accuracy by **4.28 percentage points**.
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/DSAINet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
