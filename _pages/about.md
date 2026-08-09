@@ -61,6 +61,7 @@ My research interests include AI for neuroscience, EEG decoding, and deep learni
 </div>
 </div>
 
+- `arXiv 2026` [EEG-JEPA: Structured Latent Prediction for EEG Foundation Models](https://arxiv.org/abs/2608.00114), Jinhao Li<sup>#</sup>, **Zhiyuan Ma<sup>#</sup>**, Xueqiao Han<sup>#</sup>, Zhongye Xia, Xinche Zhang, Shanghong Xie, Yixuan Liu, Yongjian Li, Runmin Gan, Tianlin Huo<sup>†</sup>, Sen Song<sup>†</sup>
 - `arXiv 2026` [LI-DSN: A Layer-wise Interactive Dual-Stream Network for EEG Decoding](https://arxiv.org/abs/2604.01889), Chenghao Yue<sup>#</sup>, **Zhiyuan Ma<sup>#</sup>**, Zhongye Xia, Xinche Zhang, Yisi Zhang<sup>†</sup>, Xinke Shen<sup>†</sup>, Sen Song<sup>†</sup>
 - `arXiv 2026` [Signal-Adaptive Trust Regions for Gradient-Free Optimization of Recurrent Spiking Neural Networks](https://arxiv.org/abs/2601.21572), Jinhao Li<sup>#</sup>, Yuhao Sun<sup>#</sup>, **Zhiyuan Ma**, Hao He, Xinche Zhang, Xing Chen, Jin Li<sup>†</sup>, Sen Song<sup>†</sup>
 - `CogSci 2026` [Training-Driven Representational Geometry Modularization Predicts Brain Alignment in Language Models](https://arxiv.org/abs/2602.07539), Yixuan Liu<sup>#</sup>, **Zhiyuan Ma<sup>#</sup>**, Likai Tang, Runmin Gan, Xinche Zhang, Jinhao Li, Chao Xie<sup>†</sup>, Sen Song<sup>†</sup>
