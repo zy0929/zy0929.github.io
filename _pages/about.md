@@ -24,6 +24,7 @@ I received my bachelor's degree in Computer Science and Technology from the Coll
 My research interests include AI for neuroscience, EEG decoding, and deep learning.
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉 Our paper "Signal-Adaptive Trust Regions for Gradient-Free Optimization of Recurrent Spiking Neural Networks" is accepted by **NeurIPS 2026 (Poster)**! 
 - *2026.04*: &nbsp;🎉 Our paper "Training-Driven Representational Geometry Modularization Predicts Brain Alignment in Language Models" is accepted by **CogSci 2026 (Oral)**! 
 - *2025.07*: &nbsp;🎉 Our paper "Reward-optimizing learning using stochastic release plasticity" is accepted by **Frontiers in Neural Circuits**!
 
@@ -63,7 +64,7 @@ My research interests include AI for neuroscience, EEG decoding, and deep learni
 
 - `arXiv 2026` [EEG-JEPA: Structured Latent Prediction for EEG Foundation Models](https://arxiv.org/abs/2608.00114), Jinhao Li<sup>#</sup>, **Zhiyuan Ma<sup>#</sup>**, Xueqiao Han<sup>#</sup>, Zhongye Xia, Xinche Zhang, Shanghong Xie, Yixuan Liu, Yongjian Li, Runmin Gan, Tianlin Huo<sup>†</sup>, Sen Song<sup>†</sup>
 - `arXiv 2026` [LI-DSN: A Layer-wise Interactive Dual-Stream Network for EEG Decoding](https://arxiv.org/abs/2604.01889), Chenghao Yue<sup>#</sup>, **Zhiyuan Ma<sup>#</sup>**, Zhongye Xia, Xinche Zhang, Yisi Zhang<sup>†</sup>, Xinke Shen<sup>†</sup>, Sen Song<sup>†</sup>
-- `arXiv 2026` [Signal-Adaptive Trust Regions for Gradient-Free Optimization of Recurrent Spiking Neural Networks](https://arxiv.org/abs/2601.21572), Jinhao Li<sup>#</sup>, Yuhao Sun<sup>#</sup>, **Zhiyuan Ma**, Hao He, Xinche Zhang, Xing Chen, Jin Li<sup>†</sup>, Sen Song<sup>†</sup>
+- `NeurIPS 2026` [Signal-Adaptive Trust Regions for Gradient-Free Optimization of Recurrent Spiking Neural Networks](https://arxiv.org/abs/2601.21572), Jinhao Li<sup>#</sup>, Yuhao Sun<sup>#</sup>, **Zhiyuan Ma**, Hao He, Xinche Zhang, Xing Chen, Jin Li<sup>†</sup>, Sen Song<sup>†</sup>
 - `arXiv 2026` [Beyond Flattened Tokens: Structure-Preserving EEG Decoding with Reusable TriDim Blocks](https://arxiv.org/abs/2609.19842), Shiyue Su, Song Wang, Zekai Zhan, Junjie Zeng, Ziling Lu, Zongsheng Li, Xinyuan Ye, **Zhiyuan Ma**, Xinke Shen<sup>†</sup>, Quanying Liu<sup>†</sup>
 - `CogSci 2026` [Training-Driven Representational Geometry Modularization Predicts Brain Alignment in Language Models](https://arxiv.org/abs/2602.07539), Yixuan Liu<sup>#</sup>, **Zhiyuan Ma<sup>#</sup>**, Likai Tang, Runmin Gan, Xinche Zhang, Jinhao Li, Chao Xie<sup>†</sup>, Sen Song<sup>†</sup>
 - `Frontiers in Neural Circuits 2025` [Reward-optimizing learning using stochastic release plasticity](https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2025.1618506/full), Yuhao Sun<sup>#</sup>, Wantong Liao<sup>#</sup>, Jinhao Li<sup>#</sup>, Xinche Zhang<sup>#</sup>, Guan Wang, **Zhiyuan Ma**, Sen Song<sup>†</sup>
