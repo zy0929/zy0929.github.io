@@ -73,7 +73,7 @@ My research interests include AI for neuroscience, EEG decoding, and deep learni
 <sup>**†**</sup> denotes corresponding author and <sup>**#**</sup> denotes equal contribution.
 
 # 🏆 Awards
-- *2025.5*, **Outstanding Undergraduate Thesis**, Zhejiang University. 
+- *2025.6*, **2025 Excellent Undergraduate Dissertation**, Zhejiang University. 
 
 # 📖 Educations
 - *2025.08 - now*, Ph.D. Student, Biomedical Engineering, Tsinghua University, Beijing, China. 
