@@ -91,5 +91,3 @@ My research interests include AI for neuroscience, EEG decoding, and deep learni
 - IEEE Journal of Biomedical and Health Informatics
 - IEEE Transactions on Neural Systems and Rehabilitation Engineering
 - CogSci
-
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=MDqeY9AJgmGTyAv10twX2NJhpwV-CWJr3sCvAhB-2og&cl=ffffff&w=a"></script>
