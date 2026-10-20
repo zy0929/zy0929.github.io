@@ -79,15 +79,17 @@ My research interests include AI for neuroscience, EEG decoding, and deep learni
 - *2025.08 - now*, Ph.D. Student, Biomedical Engineering, Tsinghua University, Beijing, China. 
 - *2021.08 - 2025.06*, Undergraduate, Computer Science and Technology, Zhejiang University, Hangzhou, China.
 
-# 👨‍🏫 Teaching
+# 🌏 Academic Service
+## Teaching
 - *2026 Fall*, **Teaching Assistant**, Technology Innovation and Challenge 2C, Tsinghua University.
 - *2026 Spring*, **Teaching Assistant**, Technology Innovation and Challenge 2C, Tsinghua University.
 - *2025 Fall*, **Teaching Assistant**, Technology Innovation and Challenge 2C, Tsinghua University.
 - *2024 Fall*, **Teaching Assistant**, Computer Organization, Zhejiang University.
 - *2024 Spring*, **Teaching Assistant**, Computer Organization, Zhejiang University.
 
-# 🌏 Activities
-## Reviewer
+## Journal Reviewer
 - IEEE Journal of Biomedical and Health Informatics
 - IEEE Transactions on Neural Systems and Rehabilitation Engineering
+
+## Conference Reviewer
 - CogSci
