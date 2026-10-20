@@ -73,6 +73,7 @@ My research interests include AI for neuroscience, EEG decoding, and deep learni
 <sup>**†**</sup> denotes corresponding author and <sup>**#**</sup> denotes equal contribution.
 
 # 🏆 Awards
+- *2026.10*, **Second-Class Comprehensive Excellence Scholarship**, Tsinghua University. 
 - *2025.6*, **2025 Excellent Undergraduate Dissertation**, Zhejiang University. 
 
 # 📖 Educations
@@ -93,3 +94,4 @@ My research interests include AI for neuroscience, EEG decoding, and deep learni
 
 ## Conference Reviewer
 - CogSci
+- ACM MMAsia
