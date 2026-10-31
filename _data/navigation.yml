@@ -9,6 +9,9 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Fundings"
+    url: "/#-fundings"
+
   - title: "Awards"
     url: "/#-awards"
 
