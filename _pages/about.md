@@ -24,10 +24,12 @@ I received my bachelor's degree in Computer Science and Technology from the Coll
 My research interests include AI for neuroscience, EEG decoding, and deep learning.
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉 Our project is awarded **RMB 200,000** under the **Tsinghua IDG/McGovern “Brain+X” Seed Grant Doctoral and Postdoctoral Program**! 
 - *2026.10*: &nbsp;🎉 Our paper "Beyond Isolated Peaks: Point-Aligned RD/RA Context for mmWave Fall Detection" is accepted by **ACM MMAsia**! 
 - *2026.09*: &nbsp;🎉 Our paper "Signal-Adaptive Trust Regions for Gradient-Free Optimization of Recurrent Spiking Neural Networks" is accepted by **NeurIPS 2026 (Poster)**! 
 - *2026.04*: &nbsp;🎉 Our paper "Training-Driven Representational Geometry Modularization Predicts Brain Alignment in Language Models" is accepted by **CogSci 2026 (Oral)**! 
 - *2025.07*: &nbsp;🎉 Our paper "Reward-optimizing learning using stochastic release plasticity" is accepted by **Frontiers in Neural Circuits**!
+- *2025.06*: &nbsp;🎉 I receive the **Excellent Undergraduate Dissertation Award** from Zhejiang University!
 
 # 📝 Publications 
 
@@ -71,6 +73,9 @@ My research interests include AI for neuroscience, EEG decoding, and deep learni
 - `Frontiers in Neural Circuits 2025` [Reward-optimizing learning using stochastic release plasticity](https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2025.1618506/full), Yuhao Sun<sup>#</sup>, Wantong Liao<sup>#</sup>, Jinhao Li<sup>#</sup>, Xinche Zhang<sup>#</sup>, Guan Wang, **Zhiyuan Ma**, Sen Song<sup>†</sup>
 
 <sup>**†**</sup> denotes corresponding author and <sup>**#**</sup> denotes equal contribution.
+
+# 💰 Fundings
+- *2026.10 - 2028.10*, **Tsinghua IDG/McGovern "Brain+X" Seed Grant Doctoral and Postdoctoral Program, RMB 200,000**. 
 
 # 🏆 Awards
 - *2026.10*, **Second-Class Comprehensive Excellence Scholarship**, Tsinghua University. 
