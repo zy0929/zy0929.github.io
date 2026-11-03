@@ -24,12 +24,14 @@ I received my bachelor's degree in Computer Science and Technology from the Coll
 My research interests include AI for neuroscience, EEG decoding, and deep learning.
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉 Our project wins a **Silver Award** in the **China International College Students’ Innovation Competition (Beijing Division)**! 
 - *2026.10*: &nbsp;🎉 Our project is awarded **RMB 200,000** under the **Tsinghua IDG/McGovern “Brain+X” Seed Grant Doctoral and Postdoctoral Program**! 
 - *2026.10*: &nbsp;🎉 Our paper "Beyond Isolated Peaks: Point-Aligned RD/RA Context for mmWave Fall Detection" is accepted by **ACM MMAsia**! 
 - *2026.09*: &nbsp;🎉 Our paper "Signal-Adaptive Trust Regions for Gradient-Free Optimization of Recurrent Spiking Neural Networks" is accepted by **NeurIPS 2026 (Poster)**! 
 - *2026.04*: &nbsp;🎉 Our paper "Training-Driven Representational Geometry Modularization Predicts Brain Alignment in Language Models" is accepted by **CogSci 2026 (Oral)**! 
 - *2025.07*: &nbsp;🎉 Our paper "Reward-optimizing learning using stochastic release plasticity" is accepted by **Frontiers in Neural Circuits**!
 - *2025.06*: &nbsp;🎉 I receive the **Excellent Undergraduate Dissertation Award** from Zhejiang University!
+- *2024.07*: &nbsp;🎉 Our project wins **Second Prize** in the **National Biomedical Engineering Innovation Design Competition**!
 
 # 📝 Publications 
 
@@ -78,8 +80,10 @@ My research interests include AI for neuroscience, EEG decoding, and deep learni
 - *2026.10 - 2028.10*, **Tsinghua IDG/McGovern "Brain+X" Seed Grant Doctoral and Postdoctoral Program, RMB 200,000**. 
 
 # 🏆 Awards
-- *2026.10*, **Second-Class Comprehensive Excellence Scholarship**, Tsinghua University. 
-- *2025.6*, **2025 Excellent Undergraduate Dissertation**, Zhejiang University. 
+- *2026.11*, **Silver Award**, China International College Students’ Innovation Competition (Beijing Division).
+- *2026.10*, **Second-Class Comprehensive Excellence Scholarship**, Tsinghua University.
+- *2025.06*, **2025 Excellent Undergraduate Dissertation**, Zhejiang University.
+- *2024.07*, **Second Prize**, National Biomedical Engineering Innovation Design Competition.
 
 # 📖 Educations
 - *2025.08 - now*, Ph.D. Student, Biomedical Engineering, Tsinghua University, Beijing, China. 
