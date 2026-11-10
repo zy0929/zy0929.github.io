@@ -61,7 +61,7 @@ Kun Jia, Zhenyu Cao, Hanlin Yu, Zeyuan Li, Yixuan Liu, Zhongye Xia, Sen Song<sup
 
 [![Paper](https://img.shields.io/badge/arXiv-2607.27274-red)](https://arxiv.org/abs/2607.27274)
 
-- We identify a **two-sided supervision problem** in subject-level EEG disease diagnosis.
+- We highlight a **fundamental supervision mismatch** in EEG disease diagnosis: **disease labels belong to subjects, not individual EEG windows**.
 - We propose **BridgeMIL**, which decouples instance representation learning from subject-level supervision.
 - Across **three datasets** and **five backbones**, BridgeMIL ranks first in **14 of 15 settings** and improves mean accuracy by **4.28 percentage points**.
 
