@@ -35,6 +35,23 @@ My research interests include AI for neuroscience, EEG decoding, and deep learni
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/LBSNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LBSNet: Lightweight Brain State Modeling via Learnable Spectral Prototypes for EEG-Based Fatigue Detection](https://arxiv.org/abs/2611.11916)
+
+Kun Jia, Zhenyu Cao, Hanlin Yu, Zeyuan Li, Yixuan Liu, Zhongye Xia, Sen Song<sup>†</sup>, **Zhiyuan Ma<sup>†</sup>**
+
+[![Paper](https://img.shields.io/badge/arXiv-2611.11916-red)](https://arxiv.org/abs/2611.11916)
+[![GitHub Repo stars](https://img.shields.io/github/stars/zy0929/LBSNet)](https://github.com/zy0929/LBSNet/)
+
+- We propose **LBSNet**, which uses **learnable spectral prototypes** to model local brain states and guide temporal aggregation.
+- Across two datasets, LBSNet outperforms **seven baselines**, achieving the **highest** accuracy and F1-score in **subject-independent** fatigue detection.
+- With only **1.30K** parameters and **2.89M** MACs, LBSNet reduces parameter count by **98.3%** and computational cost by **89.9%** compared with the strongest baseline on SADT.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/BridgeMIL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
