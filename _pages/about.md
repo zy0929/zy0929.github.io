@@ -35,7 +35,7 @@ My research interests include AI for neuroscience, EEG decoding, and deep learni
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/LBSNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/LBSNet-complexity.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LBSNet: Lightweight Brain State Modeling via Learnable Spectral Prototypes for EEG-Based Fatigue Detection](https://arxiv.org/abs/2611.11916)
