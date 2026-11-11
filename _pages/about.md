@@ -110,8 +110,9 @@ Yixuan Liu<sup>#</sup>, **Zhiyuan Ma<sup>#</sup>**, Likai Tang, Runmin Gan, Xinc
 
 [![Paper](https://img.shields.io/badge/Paper-CogSci-008B8B)](https://escholarship.org/uc/item/6c19n50h)
 
-- We propose **DSAINet**, an efficient dual-scale attentive interaction network for general EEG decoding.
-- Comprehensive experiments across **five EEG decoding tasks** and **ten public datasets** show that DSAINet consistently outperforms **13 representative baselines** under subject-independent evaluation, while maintaining the **same architecture and architecture-related hyperparameters** across datasets.
+- We identify **training-driven geometric modularization** in language models, with **low-complexity layers** better predicting human language-network activity.
+- We reveal **distinct brain alignment dynamics** during training: early and stable in temporal regions, but delayed and more dynamic in frontal regions.
+- We show that **lower representational curvature** predicts stronger brain alignment beyond training progress, with this relationship becoming more robust in larger models.
 
 </div>
 </div>
