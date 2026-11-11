@@ -68,6 +68,23 @@ Kun Jia, Zhenyu Cao, Hanlin Yu, Zeyuan Li, Yixuan Liu, Zhongye Xia, Sen Song<sup
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/EEG-JEPA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EEG-JEPA: Structured Latent Prediction for EEG Foundation Models](https://arxiv.org/abs/2608.00114)
+
+Jinhao Li<sup>#</sup>, **Zhiyuan Ma<sup>#</sup>**, Xueqiao Han<sup>#</sup>, Zhongye Xia, Xinche Zhang, Shanghong Xie, Yixuan Liu, Yongjian Li, Runmin Gan, Tianlin Huo<sup>†</sup>, Sen Song<sup>†</sup>
+
+[![Paper](https://img.shields.io/badge/arXiv-2608.00114-red)](https://arxiv.org/abs/2608.00114)
+[![GitHub Repo stars](https://img.shields.io/github/stars/SWF-hao/EEG-JEPA-official)](https://github.com/SWF-hao/EEG-JEPA-official/)
+
+- We highlight a **fundamental supervision mismatch** in EEG disease diagnosis: **disease labels belong to subjects, not individual EEG windows**.
+- We propose **BridgeMIL**, which decouples instance representation learning from subject-level supervision.
+- Across **three datasets** and **five backbones**, BridgeMIL ranks first in **14 of 15 settings** and improves mean accuracy by **4.28 percentage points**.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/DSAINet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
