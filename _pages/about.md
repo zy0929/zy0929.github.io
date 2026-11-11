@@ -78,9 +78,9 @@ Jinhao Li<sup>#</sup>, **Zhiyuan Ma<sup>#</sup>**, Xueqiao Han<sup>#</sup>, Zhon
 [![Paper](https://img.shields.io/badge/arXiv-2608.00114-red)](https://arxiv.org/abs/2608.00114)
 [![GitHub Repo stars](https://img.shields.io/github/stars/SWF-hao/EEG-JEPA-official)](https://github.com/SWF-hao/EEG-JEPA-official/)
 
-- We propose **EEG-JEPA**, an EEG foundation model that combines **structured latent prediction**, neurotopology-aware masking, and hierarchical supervision.
-- Under matched pretraining conditions, EEG-JEPA improves average balanced accuracy across **14** frozen-transfer tasks by **9.93** percentage points over masked waveform reconstruction.
-- With only **4.92M** parameters, EEG-JEPA achieves the **highest** average balanced accuracy on **EEG-FM-Bench (52.94%)** among evaluated foundation models and ranks **first** on all **nine** full-fine-tuning tasks.
+- We propose **EEG-JEPA**, an EEG foundation model that learns transferable representations through **structured latent prediction**.
+- EEG-JEPA ranks **first** on average across **14** frozen-transfer tasks and on all **nine** fine-tuning tasks.
+- Layerwise analysis reveals basic signal features in shallow layers and complex interactions in deeper layers.
 
 </div>
 </div>
