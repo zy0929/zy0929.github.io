@@ -35,6 +35,22 @@ My research interests include AI for neuroscience, EEG decoding, and deep learni
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/Wireless acquisition core.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A shared wireless acquisition core for cortical and peripheral recordings in freely moving mice](https://www.biorxiv.org/content/10.64898/2026.11.07.764907v1)
+
+Wanmei Zhang<sup>#</sup><sup>†</sup>, Youlang Du<sup>#</sup>, Jiayi Li, Guangyu Liang, Cheng Yi, Mingxiu Cheng, Xinhong Xv, Hao Wang, Hongyu Dong, Sen Song, Yuanlong Zhang, **Zhiyuan Ma<sup>†</sup>**
+
+[![Paper](https://img.shields.io/badge/bioRxiv-2026.11.07.764907-red)](https://www.biorxiv.org/content/10.64898/2026.11.07.764907v1)
+
+- We develop a **lightweight wireless platform** for concurrent **cortical, muscle, and motion recording** in freely moving mice.
+- The headstage weighs **1.2 g** (excluding the battery) and achieves **0.176 μV RMS noise** under shorted-input testing over 0.5–100 Hz.
+- We demonstrate applications in **neural monitoring** and **behavioral analysis**, with **electrode reassignment** extending the same hardware to cardiac recording.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/LBSNet-complexity.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
