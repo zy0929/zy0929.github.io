@@ -117,14 +117,14 @@ Jinhao Li<sup>#</sup>, **Zhiyuan Ma<sup>#</sup>**, Xueqiao Han<sup>#</sup>, Zhon
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2026</div><img src='images/CogSci-2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2026 Oral</div><img src='images/CogSci-2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Training-Driven Representational Geometry Modularization Predicts Brain Alignment in Language Models](https://escholarship.org/uc/item/6c19n50h)
 
 Yixuan Liu<sup>#</sup>, **Zhiyuan Ma<sup>#</sup>**, Likai Tang, Runmin Gan, Xinche Zhang, Jinhao Li, Chao Xie<sup>†</sup>, Sen Song<sup>†</sup>
 
-[![Paper](https://img.shields.io/badge/Paper-CogSci-008B8B)](https://escholarship.org/uc/item/6c19n50h)
+[![Paper](https://img.shields.io/badge/Paper-CogSci (Oral)-008B8B)](https://escholarship.org/uc/item/6c19n50h)
 
 - We identify **training-driven geometric modularization** in language models, with **low-complexity layers** better predicting human language-network activity.
 - We reveal **distinct brain alignment dynamics** during training: early and stable in temporal regions, but delayed and more dynamic in frontal regions.
