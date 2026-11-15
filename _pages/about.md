@@ -134,7 +134,7 @@ Yixuan Liu<sup>#</sup>, **Zhiyuan Ma<sup>#</sup>**, Likai Tang, Runmin Gan, Xinc
 </div>
 
 - `arXiv 2026` [LI-DSN: A Layer-wise Interactive Dual-Stream Network for EEG Decoding](https://arxiv.org/abs/2604.01889), Chenghao Yue<sup>#</sup>, **Zhiyuan Ma<sup>#</sup>**, Zhongye Xia, Xinche Zhang, Yisi Zhang<sup>†</sup>, Xinke Shen<sup>†</sup>, Sen Song<sup>†</sup>
-- `NeurIPS 2026` [Signal-Adaptive Trust Regions for Gradient-Free Optimization of Recurrent Spiking Neural Networks](https://arxiv.org/abs/2601.21572), Jinhao Li<sup>#</sup>, Yuhao Sun<sup>#</sup>, **Zhiyuan Ma**, Hao He, Xinche Zhang, Xing Chen, Jin Li<sup>†</sup>, Sen Song<sup>†</sup>
+- `NeurIPS 2026 (Poster)` [Signal-Adaptive Trust Regions for Gradient-Free Optimization of Recurrent Spiking Neural Networks](https://arxiv.org/abs/2601.21572), Jinhao Li<sup>#</sup>, Yuhao Sun<sup>#</sup>, **Zhiyuan Ma**, Hao He, Xinche Zhang, Xing Chen, Jin Li<sup>†</sup>, Sen Song<sup>†</sup>
 - `arXiv 2026` [Beyond Flattened Tokens: Structure-Preserving EEG Decoding with Reusable TriDim Blocks](https://arxiv.org/abs/2609.19842), Shiyue Su, Song Wang, Zekai Zhan, Junjie Zeng, Ziling Lu, Zongsheng Li, Xinyuan Ye, **Zhiyuan Ma**, Xinke Shen<sup>†</sup>, Quanying Liu<sup>†</sup>
 - `Frontiers in Neural Circuits 2025` [Reward-optimizing learning using stochastic release plasticity](https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2025.1618506/full), Yuhao Sun<sup>#</sup>, Wantong Liao<sup>#</sup>, Jinhao Li<sup>#</sup>, Xinche Zhang<sup>#</sup>, Guan Wang, **Zhiyuan Ma**, Sen Song<sup>†</sup>
 
