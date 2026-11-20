@@ -124,7 +124,7 @@ Jinhao Li<sup>#</sup>, **Zhiyuan Ma<sup>#</sup>**, Xueqiao Han<sup>#</sup>, Zhon
 
 Yixuan Liu<sup>#</sup>, **Zhiyuan Ma<sup>#</sup>**, Likai Tang, Runmin Gan, Xinche Zhang, Jinhao Li, Chao Xie<sup>†</sup>, Sen Song<sup>†</sup>
 
-[![Paper](https://img.shields.io/badge/Paper-CogSci 2026 (Oral)-008B8B)](https://escholarship.org/uc/item/6c19n50h) ![CCF B](https://img.shields.io/badge/CCF%20B-6256A9)
+[![Paper](https://img.shields.io/badge/Paper-CogSci 2026 (Oral)-008B8B)](https://escholarship.org/uc/item/6c19n50h) ![CCF B](https://img.shields.io/badge/CCF%20B-4869A4)
 
 - We identify **training-driven geometric modularization** in language models, with **low-complexity layers** better predicting human language-network activity.
 - We reveal **distinct brain alignment dynamics** during training: early and stable in temporal regions, but delayed and more dynamic in frontal regions.
